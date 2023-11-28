@@ -19,14 +19,22 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Logic Diagram
 ## Procedure
 ## Program:
+![ex2code](https://github.com/Visalan-H/Experiment--02-Implementation-of-combinational-logic-/assets/152077751/cac7cd04-580e-41b3-87cd-321c9d10c5d1)
+
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Visalan H
+RegisterNumber: 23007458
 */
-## RTL realization
+## TRUTH TABLE
+![ex2tt](https://github.com/Visalan-H/Experiment--02-Implementation-of-combinational-logic-/assets/152077751/6ea66daa-e37b-47b2-b704-ecf9c4950334)
 
-## Output:
+## RTL realization
+![ex2rtl](https://github.com/Visalan-H/Experiment--02-Implementation-of-combinational-logic-/assets/152077751/44f13254-bb32-4e2f-a36e-3f2a1ff0fe83)
+
+
+Output:
+## ![ex2output](https://github.com/Visalan-H/Experiment--02-Implementation-of-combinational-logic-/assets/152077751/ab527efc-3346-4afd-9020-3beb84a1baf4)
 ## RTL
 ## Timing Diagram
 ## Result:
